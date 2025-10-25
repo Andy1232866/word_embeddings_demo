@@ -1,5 +1,5 @@
-# word_embeddings_demo
-Éste mini proyecto muestra cómo representar palabras con vectores numéricos (word embeddings) y cómo visualizar sus relaciones semánticas en 2D
+# Word Embeddings
+Éste mini proyecto muestra cómo representar palabras con vectores numéricos (word embeddings) y cómo visualizar sus relaciones semánticas en un espacio 2D
 
 ## Descripción
 Los **word embeddings** son una técnica del procesamiento de lenguaje natural (NLP) que convierte palabras en vectores dentro de un espacio contínuo, de forma que las palabras con significados similares están más cerca entre sí.
@@ -10,7 +10,7 @@ En esta notebook se muestra:
 
 - Cómo generar los vectores de palabras usando un modelo preentrenado
 - Cómo medir la similitud entre palabras
-- Cómo reducir la dimensionalidad de los embeddings (PCA en nestro caso para visualizarlos en 2D)
+- Cómo reducir la dimensionalidad de los embeddings (PCA en nuestro caso para visualizarlos en 2D)
 - Cómo interpretar la distancia entre palabras en el espacio vectorial
 
 ## Contenido
