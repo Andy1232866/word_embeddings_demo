@@ -4,7 +4,7 @@
 ## Descripción
 Los **word embeddings** son una técnica del procesamiento de lenguaje natural (NLP) que convierte palabras en vectores dentro de un espacio contínuo, de forma que las palabras con significados similares están más cerca entre sí.
 
-
+![Representación Visual del Proceso de las Word Embeddings](Embeddings.png)
 
 En esta notebook se muestra:
 
