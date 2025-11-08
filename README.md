@@ -14,8 +14,10 @@ En esta notebook se muestra:
 - Cómo interpretar la distancia entre palabras en el espacio vectorial
 
 ## Contenido
-- **Word2Vec.ipyb**: Notebook principal con el código paso a paso
+- **Word2Vec.ipyb**: Notebook principal con el código paso a paso (Embedding preentrenado)
 - **Embeddings.png**: Imagen que ilustra el proceso de forma visual (_Es una representación_)
+- **Word2Vec_2.ipyb**: Notebook secundario con el código paso a paso (Embedding que entrenamos)
+- **modelo_word2vec.model**: Modelo que entrenamos en el notebook `'Word2Vec_2.ipyb'`
 
 ## Requisitos
 Asegúrate de tener instaladas las siguientes librerías:
